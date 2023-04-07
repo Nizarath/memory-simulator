@@ -1,0 +1,2 @@
+Main-Class: mmr_mgmt
+Class-Path: lib/jfreechart.jar lib/jfreechart-experimental.jar lib/jcommon.jar lib/JTattoo-1.6.11.jar
